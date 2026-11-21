@@ -123,22 +123,22 @@ SOS Children's Villages Honduras (Aldeas SOS) · Apr 2026
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=140b28&title_color=c4b5fd&text_color=e4dcff&icon_color=a78bfa&ring_color=8b5cf6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=140b28&title_color=c4b5fd&text_color=e4dcff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reyes-ale&show_icons=true&hide_border=true&bg_color=140b28&title_color=c4b5fd&text_color=e4dcff&icon_color=a78bfa&ring_color=8b5cf6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyes-ale&layout=compact&hide_border=true&bg_color=140b28&title_color=c4b5fd&text_color=e4dcff" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=140b28&ring=8b5cf6&fire=f0abfc&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=f7f3ff&sideNums=f7f3ff&dates=a78bfa&stroke=2e1852" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=reyes-ale&hide_border=true&background=140b28&ring=8b5cf6&fire=f0abfc&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=f7f3ff&sideNums=f7f3ff&dates=a78bfa&stroke=2e1852" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=140b28&color=c4b5fd&line=8b5cf6&point=f0abfc&area=true&area_color=8b5cf6&hide_border=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyes-ale&bg_color=140b28&color=c4b5fd&line=8b5cf6&point=f0abfc&area=true&area_color=8b5cf6&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyes-ale/reyes-ale/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/reyes-ale/reyes-ale/output/snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
